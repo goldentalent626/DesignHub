@@ -8,16 +8,6 @@
 
 An open-source, local-first design & brand identity toolkit.
 Build a brand, then everything it needs: logo variants, mockups, social assets, a brand book and design tokens. Plus typography, color, icons, backgrounds, effects, SVG and accessibility tools, in one fast, keyboard-first workspace.
-
-[Features](#features) · [Screenshots](#screenshots) · [Quick start](#quick-start) · [Roadmap](https://github.com/yakew7/DesignHub/blob/main/ROADMAP.md) · [FAQ](https://github.com/yakew7/DesignHub/blob/main/docs/faq.md) · [Troubleshooting](https://github.com/yakew7/DesignHub/blob/main/docs/troubleshooting.md) ([installed app](https://github.com/yakew7/DesignHub/blob/main/docs/troubleshooting.md#the-installed-app)) · [Glossary](https://github.com/yakew7/DesignHub/blob/main/docs/glossary.md) · [Self-hosting](https://github.com/yakew7/DesignHub/blob/main/docs/self-hosting.md) · [Contributing](https://github.com/yakew7/DesignHub/blob/main/CONTRIBUTING.md). [Translation Guide](docs/translating.md)
-
-[![CI](https://github.com/yakew7/DesignHub/actions/workflows/ci.yml/badge.svg)](https://github.com/yakew7/DesignHub/actions/workflows/ci.yml)
-![MIT License](https://img.shields.io/badge/license-MIT-6366f1)
-![Next.js 16](https://img.shields.io/badge/Next.js-16-000000)
-![TypeScript strict](https://img.shields.io/badge/TypeScript-strict-3178c6)
-![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS-v4-38bdf8)
-![No login](https://img.shields.io/badge/login-none-34d399)
-
 </div>
 
 ---
@@ -447,8 +437,3 @@ See [ROADMAP.md](ROADMAP.md) for details.
 
 Contributions of all sizes are welcome - bug reports, docs, new export formats or a whole new studio. Start with [CONTRIBUTING.md](CONTRIBUTING.md), or follow [Your first contribution](docs/first-contribution.md) for a step-by-step walkthrough of one change from fork to merged pull request, and please follow our [Code of Conduct](CODE_OF_CONDUCT.md). Security issues: see [SECURITY.md](SECURITY.md).
 
-## License
-
-[MIT](LICENSE) © DesignHub contributors.
-
-Fonts are served by Google Fonts under their respective open licenses. Icons are provided by Iconify; each collection keeps its own license, which is shown in the Icon Studio.
